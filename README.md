@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! My name is Aleksandar  and I'm a from Novi Sad, Serbia.</h2>
+<h2 align="left">Hi there👋! My name is Aleksandar  and I'm from Novi Sad, Serbia.</h2>
 
 ###
 
