@@ -68,6 +68,7 @@ I'm a passionate web developer from Novi Sad, Serbia, focused on creating beauti
   <img src="https://raw.githubusercontent.com/bosnjakaleksandar/bosnjakaleksandar/output/snake.svg" alt="Snake animation" />
 </div>
 
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
