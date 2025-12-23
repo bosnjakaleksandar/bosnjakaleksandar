@@ -9,8 +9,6 @@
     <img src="https://github-profile-trophy.vercel.app?username=bosnjakaleksandar&theme=react&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
 <div align="left">
   <h3 align="left">Skills 🧑‍💻</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
