@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Aleksandar+%F0%9F%91%8B;Web+Developer+from+Novi+Sad%2C+Serbia+%F0%9F%87%B7%F0%9F%87%B8;Building+amazing+web+experiences!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Aleksandar+%F0%9F%91%8B;Web+Developer+from+Novi+Sad%2C+Serbia;Building+amazing+web+experiences!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -71,3 +71,5 @@ I'm a passionate web developer from Novi Sad, Serbia, focused on creating beauti
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+---
