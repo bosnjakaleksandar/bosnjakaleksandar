@@ -25,7 +25,7 @@ Currently expanding my experience with **React Native / Expo** for mobile develo
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,astro,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,astro,tailwindcss,bootstrap" />
 </p>
 
 ### CMS & Backend Experience
